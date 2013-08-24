@@ -1,10 +1,20 @@
 //<?
+/** 
+ * Sape
+ * 
+ * Sape.RU Context Plugin for MODx Evolution
+ *
+ * @category    plugin 
+ * @version     1
+ * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL) 
+ * @internal    @properties 
+ * @internal    @events OnLoadWebDocument 
+ * @internal    @modx_category Content 
+ * @internal    @legacy_names Sape
+ * @internal    @installset base
+ */
 /*
-Sape
-1
-
-     @see: https://gist.github.com/mrogalsky/1467200
-     Sape.RU Context Plugin for MODx Evolution
+     @see: https://gist.github.com/mrogalsky/1467200 
 */
 
 if (!defined('_SAPE_USER')){
